@@ -1,0 +1,14 @@
+/Users/phonemyintsan/Projects/CoinChange/CoinChange/bin/Debug/netcoreapp3.1/CoinChange
+/Users/phonemyintsan/Projects/CoinChange/CoinChange/bin/Debug/netcoreapp3.1/CoinChange.deps.json
+/Users/phonemyintsan/Projects/CoinChange/CoinChange/bin/Debug/netcoreapp3.1/CoinChange.runtimeconfig.json
+/Users/phonemyintsan/Projects/CoinChange/CoinChange/bin/Debug/netcoreapp3.1/CoinChange.runtimeconfig.dev.json
+/Users/phonemyintsan/Projects/CoinChange/CoinChange/bin/Debug/netcoreapp3.1/CoinChange.dll
+/Users/phonemyintsan/Projects/CoinChange/CoinChange/bin/Debug/netcoreapp3.1/CoinChange.pdb
+/Users/phonemyintsan/Projects/CoinChange/CoinChange/obj/Debug/netcoreapp3.1/CoinChange.csproj.AssemblyReference.cache
+/Users/phonemyintsan/Projects/CoinChange/CoinChange/obj/Debug/netcoreapp3.1/CoinChange.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phonemyintsan/Projects/CoinChange/CoinChange/obj/Debug/netcoreapp3.1/CoinChange.AssemblyInfoInputs.cache
+/Users/phonemyintsan/Projects/CoinChange/CoinChange/obj/Debug/netcoreapp3.1/CoinChange.AssemblyInfo.cs
+/Users/phonemyintsan/Projects/CoinChange/CoinChange/obj/Debug/netcoreapp3.1/CoinChange.csproj.CoreCompileInputs.cache
+/Users/phonemyintsan/Projects/CoinChange/CoinChange/obj/Debug/netcoreapp3.1/CoinChange.dll
+/Users/phonemyintsan/Projects/CoinChange/CoinChange/obj/Debug/netcoreapp3.1/CoinChange.pdb
+/Users/phonemyintsan/Projects/CoinChange/CoinChange/obj/Debug/netcoreapp3.1/CoinChange.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5n4Z4MUF1tQXYhEJkZJOea1i/P+9iXzRWufyWQxlb8f/RUDXaUZn+5r/lnQD2PPEOG46kdiFEu8m4dtVVl4MPA==",
+  "success": true,
+  "projectFilePath": "/Users/phonemyintsan/Projects/CoinChange/CoinChange/CoinChange.csproj",
+  "expectedPackageFiles": [
+    "/Users/phonemyintsan/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/phonemyintsan/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512",
+    "/Users/phonemyintsan/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

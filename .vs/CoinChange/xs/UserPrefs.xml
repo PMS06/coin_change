@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{0C3CD1DB-A5B9-4867-9979-7453ED22ECE6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CoinChange/Program.cs">
+    <Files>
+      <File FileName="CoinChange/Program.cs" Line="111" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CoinChange" expanded="True">
+            <Node name="CoinChange" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CoinChange PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
